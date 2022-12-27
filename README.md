@@ -1,6 +1,6 @@
 <h1 align="center">PROJETO INTEGRADOR DIGITAL HOUSE</h1>
 <h1 align="center">
-    <a href="https://ecomerce-back-end-dh.herokuapp.com/">🔗 APP Ecomerce DH</a>
+    <a href="https://www.pidigitalhouse.online/">🔗 APP Ecomerce DH</a>
 </h1>
 <p align="center">🚀 Este é um APP em React do projeto integrador (PI) do curso de Dev Web Ful Stack da Digital House</p>
 
