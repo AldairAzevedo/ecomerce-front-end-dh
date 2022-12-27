@@ -2,10 +2,7 @@
 <h1 align="center">
     <a href="https://ecomerce-back-end-dh.herokuapp.com/">🔗 APP Ecomerce DH</a>
 </h1>
-<h3 align="center">
-    <a href="https://documenter.getpostman.com/view/15852789/2s8Z6u6FRZ">🔗 Documentação</a>
-</h3>
-<p align="center">🚀 Esta é uma API REST do projeto integrador (PI) do curso de Dev Web Ful Stack da Digital House</p>
+<p align="center">🚀 Este é um APP em React do projeto integrador (PI) do curso de Dev Web Ful Stack da Digital House</p>
 
 <h4 align="center"> 
 	🚧 🚀 Em atualização...  🚧
@@ -14,42 +11,39 @@
 ### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
+[Git](https://git-scm.com), [React.js](https://pt-br.reactjs.org/). 
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
-### 🎲 Rodando o Back End (servidor)
+### 🎲 Rodando o Front End (servidor)
 
 ```bash
 # Clone este repositório
-$ git clone <https://github.com/AldairAzevedo/ecomerce-back-end-dh>
+$ git clone <https://github.com/AldairAzevedo/ecomerce-front-end-dh>
 
 # Acesse a pasta do projeto no terminal/cmd
-$ cd ecomerce-back-end-dh
+$ cd ecomerce-front-end-dh
 
 # Instale as dependências
 $ npm install ou yarn
 
 # Execute a aplicação em modo de desenvolvimento
-$ yarn dev
+$ yarn start
 
-# O servidor inciará na porta:5555 - acesse <http://localhost:5555>
+# O servidor inciará na porta:5555 - acesse <http://localhost:3000>
 
 ### 🛠 Tecnologias
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
-- [NodeJS](https://nodejs.org/en/)
-- [Express](https://expressjs.com/pt-br/)
-- [Sequelize](https://sequelize.org/)
-- [MySQL](https://www.mysql.com/)
-- [pm2](https://pm2.keymetrics.io/)
+- [ReactJS](https://pt-br.reactjs.org/)
+- [Axios](https://axios-http.com/ptbr/docs/intro)
+- [Styled Components](https://styled-components.com/)
 
 ### ⚙ Arquitetura
 
-A aplicação e banco de dados está rodando em servidores e serviços indempendente:
+A aplicação está rodando indempendente na Vercel:
 
-- [API - Heroku](https://heroku.com/)
-- [Banco de dados - Hostinger](https://www.hostinger.com.br/)
+- [APP - Vercel](https://vercel.com/)
 
 ### Autor
 ---
